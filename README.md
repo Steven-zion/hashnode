@@ -1,2 +1,2 @@
-# hashnode
-backup repo for my tech articles
+## hashnode
+backup repository for my tech articles
